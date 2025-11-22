@@ -1,0 +1,6 @@
+data_map/
+logs/
+htm/
+/data/data_clean/ufo_sightings_scrubbed_clean.csv
+/data/data_clean/word_count.csv
+__pycache__

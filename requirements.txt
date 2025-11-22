@@ -1,0 +1,14 @@
+pandas
+folium
+BeautifulSoup
+lxml
+html
+geopy
+numpy 
+matplotlib
+calendar
+seaborn
+holidays
+geopandas
+pycountry
+ephem
