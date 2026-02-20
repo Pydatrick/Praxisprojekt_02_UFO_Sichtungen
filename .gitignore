@@ -1,13 +1,2 @@
-logs/script_log.log
-/data/data_clean/ufo_sightings_scrubbed_clean.csv
-/data/data_clean/word_count.csv
-data/data_raw/ufo_sightings_scrubbed.csv
 __pycache__
-*.cpg
-*.dbf
-*.prj
-*.shp
-*.shx
-*.VERSION.txt
-*.html
 README.md
